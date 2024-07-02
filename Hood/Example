@@ -1,0 +1,2 @@
+local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/willfourtwenty/notification-lib/main/Hood/main.lua", true))()
+notify:Notify("Title","Descript",10)
